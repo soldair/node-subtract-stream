@@ -1,0 +1,19 @@
+{
+  "name": "subtract-stream",
+  "description": "subtract the values of the last object from the values of the current object and stream the diffs. also numbers",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git://github.com/soldair/node-subtract-stream.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Ryan Day",
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "tape": "~2.3.2"
+  }
+}
