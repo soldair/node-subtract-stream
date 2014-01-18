@@ -1,5 +1,5 @@
 
-[![Build Status](https://secure.travis-ci.org/soldair/node-sutract-stream.png)](http://travis-ci.org/soldair/node-subtract-stream)
+[![Build Status](https://secure.travis-ci.org/soldair/node-subtract-stream.png)](http://travis-ci.org/soldair/node-subtract-stream)
 
 subtract-stream
 ===============
