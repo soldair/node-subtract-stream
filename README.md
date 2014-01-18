@@ -30,3 +30,5 @@ data { v: 2 }
 data { v: 2 }
 
 ```
+
+you can also just emit numbers and it will subtract them
